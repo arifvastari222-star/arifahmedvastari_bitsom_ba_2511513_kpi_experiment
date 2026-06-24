@@ -196,14 +196,8 @@ Support Ticket Rate and Average Revenue Per Converted User should continue to be
 
 The submission includes screenshots and outputs from:
 
-* Data Quality Checks
-* Experiment Summary
-* KPI Framework
-* Hypothesis Testing
-* Region Analysis
-* Device Type Analysis
-* Traffic Source Analysis
-* Guardrail Analysis
-* KPI Tree Diagram
+1. summary_metrics.png 
+2. hypothesis_test_output.png 
+3. kpi_tree_preview.png
 
 These screenshots support the findings and recommendations presented in the project deliverables.
