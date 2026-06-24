@@ -32,6 +32,15 @@ Two-Proportion Z-Test
 * P-Value: 0.0003
 * Significance Level (α): 0.05
 
+Test Type: One-Tailed Two-Proportion Z-Test
+
+Reason for Choosing Paid Conversion Rate:
+Paid Conversion Rate is the North Star Metric and directly measures the business objective of increasing paying customers.
+
+Interpretation Logic:
+If p-value < 0.05, reject H₀.
+If p-value ≥ 0.05, fail to reject H₀.
+
 ## Decision
 
 Since the p-value (0.0003) is less than the significance level (0.05), the Null Hypothesis is rejected.
